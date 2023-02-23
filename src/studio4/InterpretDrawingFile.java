@@ -24,6 +24,7 @@ public class InterpretDrawingFile {
 		
 		
 		String shapeType = in.next();
+		
 		int redComponent = in.nextInt();
 		int greenComponent = in.nextInt();
 		int blueComponent = in.nextInt();
